@@ -1,0 +1,8 @@
+image: ubuntu:latest
+
+build-x86_64:
+  before_script:
+    - apt-get update
+    - apt-get install -y build-essential libelf-dev
+  script:
+    - make
