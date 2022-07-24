@@ -18,3 +18,6 @@ make
 
 [PROJECT_URL]: https://gitlab.com/hev/bpf/commits/master
 [PIPELINE_STATUS]: https://gitlab.com/hev/bpf/badges/master/pipeline.svg
+
+## License
+LGPL-2.1 OR BSD-2-Clause
